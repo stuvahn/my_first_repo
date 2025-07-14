@@ -1,2 +1,2 @@
 # my_first_repo
-SANGDON KIM 
+SHOHEI OHTANI
